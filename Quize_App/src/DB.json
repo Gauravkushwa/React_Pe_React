@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "question": "What does React use to manage component data?",
+      "options": ["Props", "State", "Context", "Refs"],
+      "answer": "State"
+    },
+    {
+      "id": 2,
+      "question": "Which method is used to start an Express.js server?",
+      "options": ["app.start()", "app.run()", "app.listen()", "app.begin()"],
+      "answer": "app.listen()"
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of the 'useEffect' hook in React?",
+      "options": [
+        "To handle side effects in a component",
+        "To manage component styles",
+        "To render JSX templates",
+        "To update the Redux store"
+      ],
+      "answer": "To handle side effects in a component"
+    },
+    {
+      "id": 4,
+      "question": "Which HTTP method is typically used to create new resources?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "answer": "POST"
+    },
+    {
+      "id": 5,
+      "question": "What is the output of typeof null in JavaScript?",
+      "options": ["'object'", "'null'", "'undefined'", "'number'"],
+      "answer": "'object'"
+    }
+  ]
+  
